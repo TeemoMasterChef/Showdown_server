@@ -20201,6 +20201,20 @@ const Pokedex = {
     color: "White",
     eggGroups: ["Undiscovered"],
     gen: 5
+  },
+  tyrone: {
+    num: 11e3,
+    name: "Tyrone",
+    baseSpecies: "Tyrone",
+    types: ["Ghost", "Electric"],
+    gender: "N",
+    baseStats: { hp: 200, atk: 200, def: 200, spa: 200, spd: 200, spe: 200 },
+    abilities: { 0: "Aura break" },
+    heightm: 1.8,
+    weightkg: 61,
+    color: "Red",
+    eggGroups: ["Undiscovered"],
+    gen: 9
   }
 };
 //# sourceMappingURL=pokedex.js.map

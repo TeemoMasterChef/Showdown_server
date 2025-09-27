@@ -6071,6 +6071,9 @@ const FormatsData = {
   pokestarufopropu2: {
     isNonstandard: "Custom",
     tier: "Illegal"
+  },
+  tyrone: {
+    tier: "Uber"
   }
 };
 //# sourceMappingURL=formats-data.js.map

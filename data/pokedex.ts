@@ -20121,7 +20121,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 11000,
 		name: "Tyrone",
 		baseSpecies: "Tyrone",
-		types: ["Psychic", "Electric"],
+		types: ["Ghost", "Electric"],
 		gender: "N",
 		baseStats: { hp: 200, atk: 200, def: 200, spa: 200, spd: 200, spe: 200 },
 		abilities: { 0: "Aura break" },
