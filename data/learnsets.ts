@@ -99983,7 +99983,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	tyrone: {
 		learnset: {
-			aura_phere: ["9M"],
+			aurasphere: ["9M"],
 			psystrike: ["9L12"],
 			psychic: ["9M"],
 			thunder: ["9M"],
