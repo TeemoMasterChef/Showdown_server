@@ -1,6 +1,7 @@
 /logs/**/*
 /test/modlogs
 /test/replays/*.html
+/node_modules
 /eslint-cache
 /server/chat-plugins/private
 /server/chat-plugins/private.js
@@ -45,6 +46,7 @@ tmp/**/*
 .installed.cfg
 
 downloads
+dist
 
 # egg related
 develop-eggs
