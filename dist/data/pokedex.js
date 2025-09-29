@@ -20217,8 +20217,8 @@ const Pokedex = {
   },
   cerocerosiete: {
     num: 10001,
-    name: "007",
-    baseSpecies: "007",
+    name: "CeroCeroSiete",
+    baseSpecies: "CeroCeroSiete",
     types: ["Ghost", "Fighting"],
     gender: "M",
     baseStats: { hp: 100, atk: 200, def: 1, spa: 200, spd: 1, spe: 100 },
