@@ -99998,4 +99998,12 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			helpinghand: ["9M"],
 		},
 	},
+	cerocerosiete: {
+		learnset: {
+			aurasphere: ["9L1"],
+			headsmash: ["9L1"],
+			submission: ["9L1"],
+			noretreat: ["9L1"]
+		},
+	},
 };

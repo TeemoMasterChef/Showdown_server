@@ -20118,7 +20118,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 5,
 	},
 	tyrone: {
-		num: 11000,
+		num: 10000,
 		name: "Tyrone",
 		baseSpecies: "Tyrone",
 		types: ["Ghost", "Electric"],
@@ -20129,6 +20129,18 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 61,
 		color: "Red",
 		eggGroups: ["Undiscovered"],
-		gen: 9,
 	},
+	cerocerosiete: {
+		num: 10001,
+		name: "007",
+		baseSpecies: "007",
+		types: ["Ghost", "Fighting"],
+		gender: "M",
+		baseStats: { hp: 100, atk: 200, def: 1, spa: 200, spd: 1, spe: 100 },
+		abilities: { 0: "Sheer Force" },
+		heightm: 2.0,
+		weightkg: 61,
+		color: "Red",
+		eggGroups: ["Undiscovered"],
+	}
 };
