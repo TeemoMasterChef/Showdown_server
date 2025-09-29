@@ -6074,6 +6074,9 @@ const FormatsData = {
   },
   tyrone: {
     tier: "Uber"
+  },
+  cerocerosiete: {
+    tier: "Uber"
   }
 };
 //# sourceMappingURL=formats-data.js.map
