@@ -100020,6 +100020,14 @@ const Learnsets = {
       headbutt: ["9L24"],
       helpinghand: ["9M"]
     }
+  },
+  cerocerosiete: {
+    learnset: {
+      aurasphere: ["9L1"],
+      headsmash: ["9L1"],
+      submission: ["9L1"],
+      noretreat: ["9L1"]
+    }
   }
 };
 //# sourceMappingURL=learnsets.js.map

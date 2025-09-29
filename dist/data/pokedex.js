@@ -20203,7 +20203,7 @@ const Pokedex = {
     gen: 5
   },
   tyrone: {
-    num: 11e3,
+    num: 1e4,
     name: "Tyrone",
     baseSpecies: "Tyrone",
     types: ["Ghost", "Electric"],
@@ -20213,8 +20213,20 @@ const Pokedex = {
     heightm: 1.8,
     weightkg: 61,
     color: "Red",
-    eggGroups: ["Undiscovered"],
-    gen: 9
+    eggGroups: ["Undiscovered"]
+  },
+  cerocerosiete: {
+    num: 10001,
+    name: "007",
+    baseSpecies: "007",
+    types: ["Ghost", "Fighting"],
+    gender: "M",
+    baseStats: { hp: 100, atk: 200, def: 1, spa: 200, spd: 1, spe: 100 },
+    abilities: { 0: "Sheer Force" },
+    heightm: 2,
+    weightkg: 61,
+    color: "Red",
+    eggGroups: ["Undiscovered"]
   }
 };
 //# sourceMappingURL=pokedex.js.map
